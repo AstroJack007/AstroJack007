@@ -48,13 +48,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav6780&theme=dark&hide_border=true" alt="Pranav's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AstroJack007&show_icons=true&theme=tokyonight" alt="Pranav's GitHub Stats" />
 </p>
 
-### 🏆 GitHub Trophies:
-
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=pranav6780&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Pranav's Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroJack007&layout=compact&theme=tokyonight" alt="Pranav's Top Languages" />
 </p>
 
 <br />
