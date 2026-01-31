@@ -4,14 +4,6 @@
 
 ### Experience includes (but is not limited to):
 
-- 👨🏻‍💻 **Application Security Intern** at Ministry of Electronics and Information Technology (MeitY)
-- 💼 **Research Intern** at Meghalaya Energy Corporation Limited (MeECL)
-- 🔭 I’m currently working on **LaunchStack** (Deployment Platform) & **ClientRel** (AI CRM)
-- 🌱 I’m currently learning **Cloud Architecture (AWS)**, **Cryptography**, and **System Design**
-- 🎓 B.E. in Computer Science and Business Systems at **Thapar Institute of Engineering and Technology**
-- 🛡️ Skilled in **OWASP Top 10** vulnerability assessments and **Application Security**
-- ⚡ Fun facts: I love solving complex algorithms and building scalable systems
-
 ### 💻 Tech Stack:
 
 <p align="left">
