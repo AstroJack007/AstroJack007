@@ -1,74 +1,92 @@
-<h1 align="center">🌙 Pranav Kumar | Full Stack Developer</h1>
-
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%2B+Next.js;AWS+Explorer;Problem+Solver" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranav%20Kumar&fontSize=60&fontAlignY=35&animation=twinkling" />
 </p>
 
-<hr/>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%2B+Next.js;AWS+Learner;Problem+Solver;Open+Source+Enthusiast" />
+</p>
 
-<div align="center">
+---
 
-<table>
-<tr>
+## 👨‍💻 About Me
 
-<!-- Left Panel -->
-<td width="50%" valign="top">
+- 🚀 Full Stack Developer (MERN + Next.js)
+- ☁️ Learning AWS & Cloud
+- 🧠 300+ DSA Problems Solved
+- 🔐 Interested in Security & Scalable Systems
+- 💡 Love building real-world products
 
-<h3>🔥 About Me</h3>
+---
 
-<ul>
-<li>🚀 Passionate Full Stack Developer</li>
-<li>💻 MERN & Next.js Specialist</li>
-<li>☁️ Learning AWS & DevOps</li>
-<li>🧠 300+ DSA Solved</li>
-<li>🔐 Security + Cloud Projects</li>
-</ul>
+## 🛠️ Tech Stack
 
-<h3>📊 GitHub Power</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,aws,git,github" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AstroJack007&show_icons=true&theme=radical" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroJack007&layout=compact&theme=radical" />
+## 📊 GitHub Stats
 
-</td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AstroJack007&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- Right Panel -->
-<td width="50%" align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroJack007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<h3>✨ Developer Mode</h3>
+---
 
-<img src="https://i.pinimg.com/originals/9e/5a/88/9e5a88f2a6fd4d07f2e0f9f0ff7f6a0e.gif" width="280"/>
+## 🏆 Achievements
 
-<br/><br/>
+- ⭐ 300+ DSA Problems
+- 🥈 Hackathon Runner-Up
+- 🌱 Open Source Contributor
+- 💼 Application Security Intern (MeitY)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=300&lines=Debug.;Build.;Deploy.;Repeat." />
+---
 
-</td>
+## 🚀 Featured Projects
 
-</tr>
-</table>
+### 🔹 LaunchStack
+Cloud-native deployment using AWS ECS & Docker
 
-</div>
+### 🔹 ClientRel AI
+AI-powered CRM system
 
-<hr/>
+### 🔹 Wealth AI
+Finance analytics platform
 
-<h2 align="center">🚀 Projects Arc</h2>
+---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AstroJack007/AstroJack007/output/github-contribution-grid-snake.svg" />
+</p>
 
-<td width="33%">
-<h4>⚔️ LaunchStack</h4>
-<p>AWS + Docker Platform</p>
-</td>
+---
 
-<td width="33%">
-<h4>🧠 ClientRel AI</h4>
-<p>AI CRM System</p>
-</td>
+## 🌐 Connect With Me
 
-<td width="33%">
-<h4>💰 Wealth AI</h4>
-<p>Finance A
+<p align="center">
+  <a href="https://linkedin.com/in/pranav-kumar-810a1b25b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kupranav004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/pranav6780/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
